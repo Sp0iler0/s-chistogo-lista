@@ -102,7 +102,6 @@ p, ul, ol, blockquote {
     font-weight: 500;
     font-size: 28px;
     color: #fff;
-    margin-top: 40px;
 }
 
 /* Светлая тема */
@@ -114,7 +113,6 @@ p, ul, ol, blockquote {
     font-weight: 500;
     font-size: 28px;
     color: #131313;
-    margin-top: 40px;
 }
 
 .cover {
