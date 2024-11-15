@@ -259,12 +259,12 @@ p, ul, ol, blockquote {
 }
 
 .card_theme_dark {
-    background-color: #343434; /* Цвет для первой и третьей карточек */
+    background-color: #343434;
     color: #fff;
 }
 
 .card_theme_bright {
-    background-color: #f5c518; /* Цвет для второй карточки */
+    background-color: #f5c518;
     color: #131313;
 }
 
