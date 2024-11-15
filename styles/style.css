@@ -130,7 +130,7 @@ p, ul, ol, blockquote {
 }
 
 .cover__title {
-    font-family: 'EB Garamond', serif; 
+    font-family: 'EB Garamond', serif;
     font-weight: 400;
     font-size: 72px;
     line-height: 1.2;
@@ -259,12 +259,12 @@ p, ul, ol, blockquote {
 }
 
 .card_theme_dark {
-    background-color: #343434;
+    background-color: #343434; /* Цвет для первой и третьей карточек */
     color: #fff;
 }
 
 .card_theme_bright {
-    background-color: #f5c518;
+    background-color: #f5c518; /* Цвет для второй карточки */
     color: #131313;
 }
 
